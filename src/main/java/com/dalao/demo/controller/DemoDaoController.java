@@ -16,7 +16,7 @@ public class DemoDaoController {
 
 
     /**
-     * 等同于spring的 @Autowired,让大佬们注入多个SPA对象，好好享受
+     * 等同于spring的 @Autowired
      */
     @SPA
     private DemoService demoService;
